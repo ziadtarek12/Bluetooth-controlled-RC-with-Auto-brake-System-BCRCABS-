@@ -28,7 +28,7 @@ Upload the code to your AVR microcontroller (the code was written for a 16 MHz c
 
 This project uses the AVR IO, delay, and interrupt libraries. Make sure these are available in your development environment.
 
-## Co
+## Authors
 
 Ahmed Abdelazim 
 
@@ -37,3 +37,7 @@ Mohamed Mohy
 Yehia Ali
 
 Zeyad Omar
+
+### Circuit 
+![Circuit Diagram](circuit_diagram.jpg)
+
